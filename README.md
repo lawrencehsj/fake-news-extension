@@ -24,11 +24,12 @@ Take note that the classifier model.pkl has already been exported, hence the pro
 
 
 ### Screenshots
-Fake news prediction
+
+#### Fake news prediction
 ![image](https://user-images.githubusercontent.com/58553029/188451295-fee7359c-17df-4e58-8948-5355d25e6eb4.png)
 ![image](https://user-images.githubusercontent.com/58553029/188451335-0d9ffde7-3340-4b7f-934c-c8e8f6733780.png)
 
-Real news prediction
+#### Real news prediction
 ![image](https://user-images.githubusercontent.com/58553029/188451438-5b1c1c15-2440-486f-8a7a-089f45b10a70.png)
 ![image](https://user-images.githubusercontent.com/58553029/188451472-59ccfb66-8991-44c3-9029-4f927a25f38f.png)
 
