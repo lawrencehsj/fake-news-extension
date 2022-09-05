@@ -1,8 +1,11 @@
 # fake-news-extension
 
-The following project runs a series of models on the dataset of [fake/real news](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) to identify the best fit model for detecting fake news. The best fit model will be imported into the chrome extension to identify fake or real articles on the chrome browser.
+The following project runs a series of models on the dataset of [fake/real news](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) to identify the best fit model for detecting fake news. The best fit model will be imported into the chrome extension to identify fake or real articles on the chrome browser. 
+
+Chrome extension boilerplate code: https://github.com/EmailThis/extension-boilerplate 
 
 ** take note that the dataset cannot be contained in this repository due to large file size
+
 
 ### Sequence of project
 
