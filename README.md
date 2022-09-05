@@ -4,16 +4,16 @@ The following project runs a series of models on the dataset of [fake/real news]
 
 ### Sequence of project
 
-> data_analysis.ipynb
-> data_processing.ipynb
-> models.ipynb (runs through series of model training)
-> LR_classifier.ipynb (export model as jolib file for extension)
+* data_analysis.ipynb
+* data_processing.ipynb
+* models.ipynb (runs through series of model training)
+* LR_classifier.ipynb (export model as jolib file for extension)
 
 
 ### How to run the project
-> unpack the chrome extension (chrome folder) in developer mode of the chrome browser
-> go to root directory of project and run the following:
-> python server.py
+* unpack the chrome extension (chrome folder) in developer mode of the chrome browser
+* go to root directory of project and run the following:
+* python server.py
 
 Take note that the classifier model.pkl has already been exported, hence the project is ready to run without going through the jupyter notebooks.
 
